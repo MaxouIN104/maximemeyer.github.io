@@ -1,5 +1,5 @@
 ## Publications
-**Maxime Meyer**, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2025). Online Learning of Pure States is as Hard as Mixed States. arXiv preprint [arXiv:2502.00823](https://arxiv.org/abs/2502.00823).
+**Maxime Meyer**, Soumik Adhikary, Naixu Guo, Patrick Rebentrost (2025). Online Learning of Pure States is as Hard as Mixed States. arXiv preprint [arXiv:2502.00823](https://arxiv.org/abs/2502.00823).
 
 ## Talks
 
