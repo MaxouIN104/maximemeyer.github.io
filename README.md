@@ -1,1 +1,1 @@
-Yannis Montreui, PhD Candidate
+Maxime Meyer, PhD Student
