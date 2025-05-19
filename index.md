@@ -1,19 +1,15 @@
 ## Publications
-**Yannis Montreuil**, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2025). Why Ask One When You Can Ask $ k $? Two-Stage Learning-to-Defer to a Set of Experts. arXiv preprint [arXiv:2504.12988](https://arxiv.org/abs/2504.12988).\
-**Yannis Montreuil**, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2025). Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees. arXiv preprint [arXiv:2502.01027](https://arxiv.org/abs/2502.01027). **Accepted to ICML 2025** \
-**Yannis Montreuil**, Yeo Shu Heng, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2024). Two-stage Learning-to-Defer for Multi-Task Learning. arXiv preprint [arXiv:2410.15729](https://arxiv.org/abs/2410.15729). **Accepted to ICML 2025**\
-**Yannis Montreuil**, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2024). Optimal Query Allocation in Extractive QA with LLMs. arXiv preprint [arXiv:2410.15761](https://arxiv.org/abs/2410.15761).
+**YMaxime Meyer**, Axel Carlier, Lai Xing Ng, & Wei Tsang Ooi (2025). Online Learning of Pure States is as Hard as Mixed States. arXiv preprint [arXiv:2502.00823](https://arxiv.org/abs/2502.00823).
 
 ## Talks
 
-**Yannis Montreuil** (Oct 2023): *Human-AI in Decision Making*, Ethics of autonomy in Smart Cities, DesCartes Symposium.\
-**Yannis Montreuil** (July 2023): *Learning to Defer with Support Vector Machine*, From Human-Human to Human-AI Collaboration, Association for the Advancement of Artificial Intelligence.
+**Maxime Meyer** (Nov 2024): *On the sequential fat-shattering dimension of quantum states*, Centre for Quantum Technologies, NUS.
+
 
 ## Teaching
 
-CS5242 Neural Networks and Deep Learning
+MA1522 Linear Algebra for Computing
 
 ## Students
 
-**AY24/25**: Yeo Shu Heng, Dang Hoang Duy\
-**AY23/24**: Seah Min-Rei, Yeo Shu Heng, Dang Hoang Duy
+**AY24/25**: Dang Hoang Duy
